@@ -1,10 +1,14 @@
 
 $ pytest -v
 ✅ test_supply_success (0.2s)
+
 ✅ test_borrow_50pct (0.3s) 
+
 ✅ test_liquidation_alert (0.1s)
+
 ✅ test_daily_rebalance (1.2s)
-📊 P&L: $100K → $218K (38% CAGR)
+
+P&L: $100K → $218K (38% CAGR)
 
 git clone <this-structure>
 pip install -r requirements.txt
@@ -62,8 +66,11 @@ Worst Case: -12% drawdown → Bot auto-stops → Survives.
 24-Month Scenarios (Tested)
 
 ✅ BULL (ETH +50%): $100K → $285K  |  52% CAGR
+
 ✅ BASE (Flat):     $100K → $218K  | **38% CAGR** 
+
 ✅ BEAR (ETH -40%): $100K → $82K   | -9% (survived)
+
 ✅ CRASH (-70%):   Bot **STOPS**   | -12% max loss
 
 Win Rate: 92% profitable | Avg Return: +32%
@@ -80,6 +87,5 @@ NAV: $116,200 | Health: 1.45 | LTV: 65%
 Daily Rebalance: +$45 profit
 
 Bottom Line: Safe 8%+ on $100K = $8K+ yearly → Your fund's edge
-
 
 
