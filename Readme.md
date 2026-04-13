@@ -29,9 +29,12 @@ $100K Start → How it makes 8%+ → $218K in 24 months (38% CAGR)
 
 Core Logic (3 Simple Steps):
 
-DEPOSIT $100K stETH collateral → Earn 4% lending yield
-2. BORROW $50K USDC (3.5% cost)  
+1. DEPOSIT $100K stETH collateral → Earn 4% lending yield
+   
+2. BORROW $50K USDC (3.5% cost)
+   
 3. SWAP USDC → $49K stETH → Deposit → Repeat
+
 Net Math: 4% yield - 3.5% borrow = 0.5% carry → Amplified 2x = 8%+ total
 
 
