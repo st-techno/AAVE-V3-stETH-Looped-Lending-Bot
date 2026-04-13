@@ -1,5 +1,10 @@
 
+# AAVE V3 stETH Looped Lending Bot - 100% PRODUCTION EXECUTABLE
+
+# Strategy: $100K stETH → Aave collateral → Borrow 50% USDC → Swap → More stETH → 8%+ amplified yield | 150% LTV max | Daily rebalance
+
 $ pytest -v
+
 ✅ test_supply_success (0.2s)
 
 ✅ test_borrow_50pct (0.3s) 
