@@ -94,6 +94,6 @@ P&L Sim complete: output/aave_pnl.csv
 NAV: $116,200 | Health: 1.45 | LTV: 65%
 Daily Rebalance: +$45 profit
 
-Bottom Line: Safe 8%+ on $100K = $8K+ yearly → Your fund's edge
+Bottom Line: Safe 8%+ on $100K = $8K+ yearly 
 
 
